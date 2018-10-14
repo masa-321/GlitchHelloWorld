@@ -1,0 +1,19 @@
+{
+  "name": "glitchhelloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts" : {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masa-321/GlitchHelloWorld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masa-321/GlitchHelloWorld/issues"
+  },
+  "homepage": "https://github.com/masa-321/GlitchHelloWorld#readme"
+}
